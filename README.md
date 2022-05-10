@@ -1,8 +1,8 @@
 # Ethernaut
 
-The contracts I wrote to solve [OpenZeppelin's Ethernaut](https://ethernaut.openzeppelin.com/) security challenges.
+Contracts I wrote to solve [OpenZeppelin's Ethernaut](https://ethernaut.openzeppelin.com/) security challenges.
 
-Note that some of the challenges do not require to write any contract, so they are not included in this repository.
+Some of the challenges do not require to write any contract, so they are not included in this repository.
 
 Brownie library in Python has been used.
 
